@@ -1,0 +1,2 @@
+# store7
+ www
